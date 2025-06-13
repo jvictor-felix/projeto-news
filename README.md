@@ -1,6 +1,6 @@
 Essa página web foi criada para um projeto da faculdade, utilizando Java + SpringBoot, JavaScript, HTML e CSS.
 O intuito da página é mostrar notícias sobre a minha cidade (Ouricuri - PE).
-[https://jvictor-felix.github.io/web-atex/], por aqui é possível ter um pequeno vislumbre do intuito da página, mesmo faltando algumas funcionalidades.
+[https://jvictor-felix.github.io/teste/], por aqui é possível ter um pequeno vislumbre do intuito da página, mesmo faltando algumas funcionalidades.
 
 Descrição de como cada tecnologia foi utilizada:
 
